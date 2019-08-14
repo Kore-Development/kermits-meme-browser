@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Leaf Browser Alpha",
-  "version": "0.1.2",
-  "author": "Sam Lanning <sam@samlanning.com>",
+  "name": "Kermits Meme Browser",
+  "version": "0.4",
+  "author": "salad242",
 
-  "description": "An experimental browser that runs in chrome.",
+  "description": "Kermit stole your Cheez-Its.",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
